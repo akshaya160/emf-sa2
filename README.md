@@ -12,42 +12,35 @@ Real-Time Application Areas
 In systems such as GPS and other location‐tracking technologies, coordinate systems (latitude/longitude/altitude or converted to Cartesian) and vectors (positions, velocities, displacements) are used to compute routes, track movement, resolve direction and distance.
 
 ***2. Robotics & Autonomous Systems***
-<img width="350" height="263" alt="image" src="https://github.com/user-attachments/assets/96cb10d2-fd0d-4b61-b82e-7d74e793c893" /><img width="267" height="263" alt="image" src="https://github.com/user-attachments/assets/c1230f72-4ffd-4e42-b2fb-3a5fa4d73b56" />
 
+<img width="283" height="241" alt="image" src="https://github.com/user-attachments/assets/1ac491b7-6b51-4acc-a728-68f83cdd8f99" /><img width="267" height="236" alt="image" src="https://github.com/user-attachments/assets/4f85d894-35cb-4492-951c-9a0bb2351eeb" />
 In robotics and autonomous vehicles, vector algebra is used for motion planning (displacement, velocity), sensor data interpretation (direction vectors), and coordinate transformations between world frames and robot/body frames. Real‐time control and coordination depend on this.
 
 ***3. Computer Graphics, AR/VR***
- <img width="311" height="233" alt="image" src="https://github.com/user-attachments/assets/aa6708af-e5e2-4216-9087-14d4b4315729" /><img width="478" height="240" alt="image" src="https://github.com/user-attachments/assets/009311d2-348b-409d-899a-b80eea526da9" />
+
+  <img width="258" height="239" alt="image" src="https://github.com/user-attachments/assets/7ff917fd-8610-474f-a5a5-5d0c5baa42e2" /><img width="295" height="240" alt="image" src="https://github.com/user-attachments/assets/f4987bbe-e6f0-4703-aa77-97d2f130968f" />
  Virtual scenes and AR overlays rely on 3D coordinate systems, vectors representing object positions, orientations, normals, and camera directions. Transformations (rotation, translation, scaling) are vector algebra operations. For example, rotating an object in a scene uses a coordinate transform matrix derived from vectors. 
  
 ***4. Engineering (Mechanical, Structural, Electrical***
 
- <img width="394" height="255" alt="image" src="https://github.com/user-attachments/assets/2d444e7b-a312-46ef-bad7-9523a396d84e" /><img width="229" height="251" alt="image" src="https://github.com/user-attachments/assets/783b6e51-86be-4ec1-90a1-3e158573fc68" />
- 
+  <img width="304" height="251" alt="image" src="https://github.com/user-attachments/assets/b9384e34-692c-4235-a17d-745220ac71a1" />
  In mechanical/structural/electrical engineering: forces, torques, fluid flows, fields are vector quantities; coordinate systems allow decomposition into components for analysis and control. Real‐time systems (like motor control) use vector transformations.
  
 ***5. GIS & Mapping***
 
-<img width="267" height="215" alt="image" src="https://github.com/user-attachments/assets/948a3180-f271-40f0-9a94-1cc4853d09dd" /><img width="204" height="214" alt="image" src="https://github.com/user-attachments/assets/96fa2ba8-c169-46c2-a0e4-5b912a3c5e46" />
-
-Spatial data is represented in coordinate systems and modelled using vectors . Real-time mapping, tracking of moving objects, dynamic updates rely on vector algebra on coordinate data.
+<img width="225" height="215" alt="image" src="https://github.com/user-attachments/assets/88e25ce1-0ca0-419a-af02-4f8674276bc6" />Spatial data is represented in coordinate systems and modelled using vectors . Real-time mapping, tracking of moving objects, dynamic updates rely on vector algebra on coordinate data.
 
 ***6. Autonomous Vehicles & Transportation Systems***
-
-<img width="421" height="243" alt="image" src="https://github.com/user-attachments/assets/d6997d56-9cd3-49aa-bd36-402a1dc8ab31" /><img width="298" height="263" alt="image" src="https://github.com/user-attachments/assets/a9f4a9ac-f09a-439d-8976-a0c75bbb41b6" />
-
+<img width="223" height="211" alt="image" src="https://github.com/user-attachments/assets/e31d1567-d2da-4eb1-abcc-8bd9bdcb53f0" /><img width="238" height="209" alt="image" src="https://github.com/user-attachments/assets/294d57fb-0435-4536-9e7c-7d7aebf44719" />
 In transportation systems: relative motion (velocity vectors of vehicles), obstacle avoidance (direction vectors), sensor fusion (coordinate transformations) all depend on vector algebra in real time to maintain safe navigation and coordination among moving objects.
 
 ***7. Environmental & Atmospheric Modelling***
-
-<img width="275" height="224" alt="image" src="https://github.com/user-attachments/assets/56ac31a7-53a0-4783-b830-2af003751b0e" /><img width="431" height="225" alt="image" src="https://github.com/user-attachments/assets/ce7126a4-9765-4144-8b43-7c053afd0700" />
-
+ <img width="194" height="200" alt="image" src="https://github.com/user-attachments/assets/e9da3751-691c-4719-a073-b9c6077ccd63" /><img width="240" height="194" alt="image" src="https://github.com/user-attachments/assets/39bea441-92ac-46da-8f82-b66d831bfe7f" />
 Wind, ocean currents, pollutant dispersion are vector fields defined over coordinate domains. Real-time monitoring and forecasting systems use vector algebra on these fields for simulation and response.
 
 ***8. Data Science & Machine Learning***
 
-<img width="485" height="358" alt="image" src="https://github.com/user-attachments/assets/d5c6e8e7-c801-4b3d-a467-fcc425eb708b" />
-
+ <img width="358" height="264" alt="image" src="https://github.com/user-attachments/assets/7a738d33-394e-4635-a97b-546c49f649e8" />
 Data points are often represented as vectors in high-dimensional coordinate spaces (features). Real-time systems (streaming data, anomaly detection) use vector operations (dot-product, projection) on these coordinate representations.
 
 ***9. Communication & Signal Processing***
