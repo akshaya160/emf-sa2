@@ -36,10 +36,12 @@ In robotics and autonomous vehicles, vector algebra is used for motion planning 
 Spatial data is represented in coordinate systems and modelled using vectors . Real-time mapping, tracking of moving objects, dynamic updates rely on vector algebra on coordinate data.
 
 ***6. Autonomous Vehicles & Transportation Systems***
+
 <img width="223" height="211" alt="image" src="https://github.com/user-attachments/assets/e31d1567-d2da-4eb1-abcc-8bd9bdcb53f0" /><img width="238" height="209" alt="image" src="https://github.com/user-attachments/assets/294d57fb-0435-4536-9e7c-7d7aebf44719" />
 In transportation systems: relative motion (velocity vectors of vehicles), obstacle avoidance (direction vectors), sensor fusion (coordinate transformations) all depend on vector algebra in real time to maintain safe navigation and coordination among moving objects.
 
 ***7. Environmental & Atmospheric Modelling***
+
  <img width="194" height="200" alt="image" src="https://github.com/user-attachments/assets/e9da3751-691c-4719-a073-b9c6077ccd63" /><img width="240" height="194" alt="image" src="https://github.com/user-attachments/assets/39bea441-92ac-46da-8f82-b66d831bfe7f" />
  
 Wind, ocean currents, pollutant dispersion are vector fields defined over coordinate domains. Real-time monitoring and forecasting systems use vector algebra on these fields for simulation and response.
