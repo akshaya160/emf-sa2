@@ -6,19 +6,17 @@ Vector algebra and coordinate systems provide a unified mathematical framework t
 Real-Time Application Areas
 
 ***1.Navigation & Positioning Systems***
-   
-<img width="279" height="293" alt="image" src="https://github.com/user-attachments/assets/14b8e8f8-a81b-44e6-be93-39e84eb49b6a" /><img width="274" height="296" alt="image" src="https://github.com/user-attachments/assets/fc99a556-aa72-47c1-b6bf-9da60dd9478d" />
+ 
+ <img width="279" height="293" alt="image" src="https://github.com/user-attachments/assets/14b8e8f8-a81b-44e6-be93-39e84eb49b6a" /><img width="274" height="296" alt="image" src="https://github.com/user-attachments/assets/fc99a556-aa72-47c1-b6bf-9da60dd9478d" />
 
 In systems such as GPS and other location‐tracking technologies, coordinate systems (latitude/longitude/altitude or converted to Cartesian) and vectors (positions, velocities, displacements) are used to compute routes, track movement, resolve direction and distance.
 
 ***2. Robotics & Autonomous Systems***
-
 <img width="350" height="263" alt="image" src="https://github.com/user-attachments/assets/96cb10d2-fd0d-4b61-b82e-7d74e793c893" /><img width="267" height="263" alt="image" src="https://github.com/user-attachments/assets/c1230f72-4ffd-4e42-b2fb-3a5fa4d73b56" />
 
 In robotics and autonomous vehicles, vector algebra is used for motion planning (displacement, velocity), sensor data interpretation (direction vectors), and coordinate transformations between world frames and robot/body frames. Real‐time control and coordination depend on this.
 
 ***3. Computer Graphics, AR/VR***
- 
  <img width="311" height="233" alt="image" src="https://github.com/user-attachments/assets/aa6708af-e5e2-4216-9087-14d4b4315729" /><img width="478" height="240" alt="image" src="https://github.com/user-attachments/assets/009311d2-348b-409d-899a-b80eea526da9" />
  Virtual scenes and AR overlays rely on 3D coordinate systems, vectors representing object positions, orientations, normals, and camera directions. Transformations (rotation, translation, scaling) are vector algebra operations. For example, rotating an object in a scene uses a coordinate transform matrix derived from vectors. 
  
